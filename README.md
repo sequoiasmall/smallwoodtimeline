@@ -1,6 +1,5 @@
-# smallwoodtimeline
 
-<!DOCTYPE html>
+
 <html>
 <head>
 	   <link rel="stylesheet"
